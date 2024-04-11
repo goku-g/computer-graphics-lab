@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608536663 source:c:\users\goku\documents\code blocks\computer_graphics\rotation_2d\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<graphics.h>
+

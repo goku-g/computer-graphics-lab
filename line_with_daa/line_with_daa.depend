@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607102754 source:c:\users\goku\documents\code blocks\computer_graphics\line_with_daa\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<stdio.h>
+

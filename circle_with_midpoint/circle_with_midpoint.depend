@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604078726 source:c:\users\goku\documents\code blocks\computer_graphics\circle_with_midpoint\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
